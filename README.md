@@ -164,7 +164,7 @@ USE hospital;
 SELECT * FROM doctor;
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa0e40b-4ff8-4c6c-ac73-7b9fd94ac300" >
+  <img src="https://github.com/user-attachments/assets/3abee984-674f-454f-bf97-04cf64aef4f1" >
 </p>
 
 
@@ -174,7 +174,7 @@ SELECT * FROM doctor;
 SELECT * FROM patient;
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa0e40b-4ff8-4c6c-ac73-7b9fd94ac300" >
+  <img src="https://github.com/user-attachments/assets/0b6c8e52-fdba-4357-9f71-00d0337880e3" >
 </p>
 
 
@@ -184,7 +184,7 @@ SELECT * FROM patient;
 SELECT * FROM appointment;
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa0e40b-4ff8-4c6c-ac73-7b9fd94ac300" >
+  <img src="https://github.com/user-attachments/assets/6449a63a-0f24-4405-9aa9-051fd8ba6716" >
 </p>
 
 
@@ -194,7 +194,7 @@ SELECT * FROM appointment;
 SELECT * FROM payment;
 ```
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa0e40b-4ff8-4c6c-ac73-7b9fd94ac300" >
+  <img src="https://github.com/user-attachments/assets/89b41774-d865-4395-90b6-5a48474908b3" >
 </p>
 
 
